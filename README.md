@@ -85,6 +85,25 @@ This project is a functional and visually appealing **Attendance Tracker** desig
 
 ---
 
+### 4. Enhance Documentation Structure 📚
+
+- Add a Table of Contents
+- Include version history table
+- Add contribution guidelines
+- Include license information
+- Add security considerations
+
+### 5. Add Visual Aids 🎯
+
+```markdown
+## 📊 Sample Outputs
+
+| Output Type         | Description                                      | Preview                                   |
+|---------------------|--------------------------------------------------|------------------------------------------|
+| Dashboard Preview   | Overview of attendance trends and metrics.       | ![Dashboard Preview](./images/dashboard.png) |
+| Attendance Chart    | Daily attendance visualized in a chart format.   | ![Attendance Chart](./images/attendance-sheet.png) |
+| PivotTable Example  | Summary of attendance data using PivotTables.    | ![PivotTable Example](./images/pivottable.png) |
+
 ## 💼 Use Cases
 
 * Team attendance monitoring.
